@@ -1,15 +1,29 @@
 ## 基本资料
 
-项目名称：
+Name：Dotconnect Wallet
 
-项目立项日期 (哪年哪月)：
+Found Date：2022.10
 
-## 项目整体简介
+Background：Wallets are the entrance to the blockchain and the metaverse world. With the NFT market becoming hotter and hotter, 急需一款对NFT友好的钱包。
 
-项目简介，英文提交。包括但不限于：
+Reason and problems to be solved: 
+In the past, People need to go to the NFT market website to connect wallet to buy and sell NFT. 
+Now, they can do that just through our wallets. It is a one-stop wallet, an NFT-friendly wallet which is transact and explore NFT.
 
-- 项目背景/原由/要解决的问题 (如有其他附件，可放到 `docs` 目录内。英文提交)。
-- 项目介绍
+
+Introduction:
+A friendly NFT Wallet
+Functions:
+1.HD Wallet:Multiple Chains,Dapp explore,NFT collection,NFT 
+2.MPC:no seed. A new encrypted way.
+3.Cross-chain transfer 
+4.One gas swap
+
+
+
+
+
+
 - 项目Demo
 - 技术架构
 - 项目 logo (如有)，这 logo 会印制在文宣，会场海报或贴子上。
